@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikem-legend" alt="ikem-legend" /></a> </p>
 
-- 🔭 I’m currently working on [Train ticket booking app](https://github.com/ikem-legend/train-ticket-server) and other amazing apps
+- 🔭 I’m currently working on a [Price comparison app](https://github.com/ikem-legend/pricepal) and other amazing apps
 
-- 🌱 I’m currently learning **Micro front ends and micro services**
+- 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Python and JavaScript projects**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **Rust**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ikem-legend](https://github.com/ikem-legend)
 
